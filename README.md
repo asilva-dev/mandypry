@@ -5,7 +5,7 @@ Sou a Amanda! Sou Analista de Desenvolvimento Front-End, curiosa de plantão que
 - 😄 She/her
 - 🔭 Atualmente estou trabalhando com Angular e GraphQl
 - 🌱 Atualmente estou aprendendo Angular 9 e .Net
-- 👯 Estou colaborando com [Django Girls SP](https://www.linkedin.com/company/django-girls-sp) e [AfroPython SP](https://www.linkedin.com/company/afropython-sp/)
+- 👯 Estou colaborando com [Django Girls SP](https://www.linkedin.com/company/django-girls-s%C3%A3o-paulo/) e [AfroPython SP](https://www.linkedin.com/company/afropython-sp/)
 - 📫 Como chegar até mim:
 
 [dev logo](https://dev.to/mandypry)
