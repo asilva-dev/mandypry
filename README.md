@@ -3,9 +3,10 @@ Olá 👋🏾 👩🏾‍💻
 Sou a Amanda! Sou Analista de Desenvolvimento Front-End, curiosa de plantão que adora descobrir novas tecnologias.
 
 - 👧🏿 She/her
-- 🔭 Atualmente estou trabalhando com Angular e GraphQl
-- 🌱 Atualmente estou aprendendo React
-- 👯 Estou colaborando com [Django Girls SP](https://www.linkedin.com/company/django-girls-s%C3%A3o-paulo/) e [AfroPython SP](https://www.linkedin.com/company/afropython-sp/)
+- 🔭 Atualmente estou trabalhando com React
+- 🌱 Atualmente estou aprendendo React Nactive e Redux
+- 👩🏾‍💻 Sou coordenadora pedagógica na[Pretalab](https://www.pretalab.com/) e professora de Front-end no [Minas Programam SP](https://minasprogramam.com/)
 
 - 📫 Como chegar até mim:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amanda-silva-dev/) | [Artigos](https://dev.to/mandypry) | [Twitter](https://twitter.com/soueumandys)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amanda-silva-dev/) | 
+- [Lives / Palestras / Podcasts / Artigos](https://linktr.ee/Afront_Tech)
